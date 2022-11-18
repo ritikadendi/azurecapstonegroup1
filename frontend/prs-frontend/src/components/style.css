@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mulish:wght@300&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: lightblue;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 300%;
+  padding-top:25px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 200%;
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 150%;
+  padding-top: 25px;
+  text-align: center;
+}
+
+p, button, a, input, th, td{
+  font-family: 'Mulish', sans-serif;
+}
+
+body {
+  background-color: lightblue;
+}

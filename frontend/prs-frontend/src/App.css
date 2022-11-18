@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mulish:wght@300&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: lightblue;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.navbar {
+  padding-left: 10px;
+  padding-right: 10px;
+  width:100%;
+  margin-top: 0;
+}
+
+.navbar-custom {
+  background-color: #8f0000;
+  color: white;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-text .nav-item {
+  color: white;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 300%;
+  padding-top: 15px;
+  text-align: center;
+}
+
+
+.small-middle-container  {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 100%;
+}
+
+.login {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  padding:0.6em 2em;
+  border-radius: 20 20 20 20;
+  background-color:#FFD35C;
+  color: #8f0000;
+  border:0;
+  cursor:pointer;
+}
